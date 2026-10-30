@@ -1,3 +1,4 @@
+<img src="assets/hero.png" width="100%" alt="Silver"/>
 # Silver – Vivado Report Tool
 
 **Silver** is a Windows desktop tool designed to help FPGA developers analyse and understand AMD Vivado implementation reports.
@@ -27,3 +28,5 @@ Silver is built by three engineering students:
 - Vaibhav
 - Vignesh
 - Praveen
+
+<img src="assets/bottom.png" width="100%" alt="Silver"/>
