@@ -18,6 +18,8 @@ For a detailed explanation of Silver, its features, workflow, and practical exam
 
 **[Read more about Silver on Substack](https://substack.com/@vaibhav5555/note/p-222749342?utm_source=notes-share-action&r=31od43)**
 
+Please provide your feedback by email: bvsrvaibhav@gmail.com
+
 ## Built By
 
 Silver is built by three engineering students:
